@@ -12,11 +12,11 @@ document.getElementById('foter').innerHTML = `
             </p>
             <div class="d-flex justify-content-center">
                 
-            <a  href="https://www.whatsapp.com/"><img src="img/wh.png" class="icon"></a>
-            <a  href="https://www.facebook.com/"><img src="img/facebook.png" class="icon"></a>
-            <a  href="https://www.instagram.com/"><img src="img/instagram.png" class="icon"></a>
-            <a  href="https://web.telegram.org"><img src="img/telegram.png" class="icon"></a>
-            <a  href="https://www.twitter.com/"><img src="img/twitter.png" class="icon"></a></li>
+            <a  href="https://www.whatsapp.com/"><img src="wh.png" class="icon"></a>
+            <a  href="https://www.facebook.com/"><img src="facebook.png" class="icon"></a>
+            <a  href="https://www.instagram.com/"><img src="instagram.png" class="icon"></a>
+            <a  href="https://web.telegram.org"><img src="telegram.png" class="icon"></a>
+            <a  href="https://www.twitter.com/"><img src="twitter.png" class="icon"></a></li>
             </div>
         </div>
         <div class="col-lg-3 col-md-6 col-sm-12 text-center mt-5">
