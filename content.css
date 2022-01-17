@@ -43,7 +43,7 @@ a {
 }
 
 #foter {
-    background-image: url('../img/sl3.jpg');
+    background-image: url('sl3.jpg');
     background-color: #ffff;
     background-size: cover;
     color: #fff;
